@@ -8,6 +8,6 @@ describe('test demo', () => {
 
   it('text check', () => {
 // containsは、画面に指定の文字が含まれているか否かをテストします。文字は任意に変更ください。
-    cy.contains('Learn react')
+    cy.contains('Learn React')
   })
 })
